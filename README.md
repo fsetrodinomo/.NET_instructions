@@ -1,5 +1,5 @@
 # Description
-Mono offers osx users to compile cs files include .net
+Instructions for creating a dotnet project in the terminal and how to run the project.
 
 # Installing
 - https://www.mono-project.com/download/stable/
